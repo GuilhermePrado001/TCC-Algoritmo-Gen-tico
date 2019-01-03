@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ajuda" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="ajuda_dicas" xml:space="preserve">
+    <value>Para mais informações entrar em contato com os desenvolvedores:
+ guilherme-prado-@outlook.com.br
+ caiojunt@gmail.com
+ ibrunoguiraldelli@gmail.com
+
+---AG PRINCIPAL---
+
+1 - Inserir Pontos / Importar TSPLIB
+
+  Para a execução do AG é necessario inserir os pontos (cidades) na tela, isto pode ser feito clicando na tela ou fazendo download da TSPLIB (https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp/), pressionando o botão "Importar" este irá abrir uma nova janela onde você deve navegar entre as pastas e selecionar um dos arquivos extraidos da TSPLIB, lembrado que atualmente o sistema suporta apenas arquivos em EUC2D e .TSP. 
+
+2 - Criando População e Executando o AG
+
+  Sempre que um novo ponto for inserido na tela uma nova população deve ser criada, caso contrario o botão executar não ficara habilitado. 
+
+3 - Limpando a Tela
+
+  Ao pressionar o botão "Limpar" os pontos serão excluidos e os valores resetados.
+
+4 - Inserindo Cidades Automáticamente
+
+  O botão "Inserir Cidades" pode ser usado para colocar cidades automaticamente e aleatoriamente na tela .
+
+5 - Configurando o AG
+
+  No software é possivel definir as configurações conforme a sua necessidade, para isto bastar alterar os valores dos campos taxa de mutação, taxa de cruzamento, evoluções e população, abaixo explicaremos resumidamente o que é cada uma.
+
+-Taxa de Mutação
+  Assim como na natureza o software simula uma chance de mutação no genes do individuo, esta taxa influencia na porcentagem de chances de um determinado individuo sofrer a mutação.
+
+-Taxa de Cruzamento
+  Está controla as chances de um inviduo se cruzar e reproduzir-se.
+
+-Evolução 
+  Controla quantas evoluções ou gerações a sua população vai ter, também define o numero de execuções que o software realiza.
+
+- População
+  Este campo define o tamanho de sua população por exemplo, caso adicionado 10 cidades na tela com um população de 50 individuos, serão criados 50 vetores de 10 posições, cada um desses vetores é responsavel pela representação de um indivuo.
+
+6 - Alterando o Tipo de Mutação
+
+  Ao selecionar o tipo de mutação "Novo Individuo" apenas os novos individuos podem sofrer a mutação, ja na opção "População em Geral" todos os individuos podem sofrer as alterações genéticas.
+
+7 - Elitismo
+
+  O Elitismo é reponsavél por manter os melhores individuos das populações anteriores, aumentando a média da nova população.
+
+8 - 2-OPT 
+
+  O 2opt é um metodo complementar para o AG, este se encarrega de descruzar os pontos facilitando a busca pela melhor rota, lembrando apenas que este exige um alto custo computacional para ser executado.
+
+9 - Torneio
+
+  Através do torneio são selecionados os melhores individuos da população, os vencedores serão aptos a realizar a etapa de cruzamento, os demais serão excluidos da população.
+
+10 - Salvar
+
+  Esta opção permite que você salve os seus pontos em um arquivo .tsp, para que mais tarde possa importa-los e recomeçar a execução novamente.
+
+---GRÁFICO---
+
+1 - Visualizando a Média de Evolução
+
+  Através opção "GRAFICO" no menu é possivel visualizar como a população esta evoluindo.
+
+---INFORMAÇÕES---
+
+1 - Informações da População
+
+  No menu "INFORMAÇÕES" é possivel visualizar toda a configuração usada na execução do AG além da melhor rota encontrada que é exibida detalhadamente.
+
+---IDIOMA---
+
+1 - Alterando o Idioma
+
+  Nesta tela é possivel alterar o idioma do software entre Inglês e Português.</value>
+  </data>
+  <data name="algoritmo" xml:space="preserve">
+    <value>Algoritmo Genético</value>
+  </data>
+  <data name="alterar" xml:space="preserve">
+    <value>Alterar</value>
+  </data>
+  <data name="btn_criar_pop" xml:space="preserve">
+    <value>Criar População</value>
+  </data>
+  <data name="btn_executar" xml:space="preserve">
+    <value>Executar</value>
+  </data>
+  <data name="btn_inserir" xml:space="preserve">
+    <value>Inserir</value>
+  </data>
+  <data name="btn_limpar" xml:space="preserve">
+    <value>Limpar</value>
+  </data>
+  <data name="como_usar" xml:space="preserve">
+    <value>Como Usar</value>
+  </data>
+  <data name="configuracoes" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="desabilitado" xml:space="preserve">
+    <value>Desabilitado</value>
+  </data>
+  <data name="elitismo" xml:space="preserve">
+    <value>Elitismo:</value>
+  </data>
+  <data name="escolha_idioma" xml:space="preserve">
+    <value>Escolha um idioma</value>
+  </data>
+  <data name="evolucao" xml:space="preserve">
+    <value>Evoluções:</value>
+  </data>
+  <data name="geral_populacao" xml:space="preserve">
+    <value>População Geral</value>
+  </data>
+  <data name="grafico" xml:space="preserve">
+    <value>Grafico</value>
+  </data>
+  <data name="idioma" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="importar" xml:space="preserve">
+    <value>Importar</value>
+  </data>
+  <data name="individuo" xml:space="preserve">
+    <value>Individuo</value>
+  </data>
+  <data name="informacao" xml:space="preserve">
+    <value>Informações</value>
+  </data>
+  <data name="ingles" xml:space="preserve">
+    <value>Inglês</value>
+  </data>
+  <data name="inserir_cidades" xml:space="preserve">
+    <value>Inserir Cidades:</value>
+  </data>
+  <data name="media_fitness" xml:space="preserve">
+    <value>Media Aptidão </value>
+  </data>
+  <data name="media_pop" xml:space="preserve">
+    <value>Media População</value>
+  </data>
+  <data name="melhor_ind" xml:space="preserve">
+    <value>Melhor Individuo:</value>
+  </data>
+  <data name="menor_dist" xml:space="preserve">
+    <value>Menor Distância:</value>
+  </data>
+  <data name="mutacao" xml:space="preserve">
+    <value>Mutação</value>
+  </data>
+  <data name="novo_ind" xml:space="preserve">
+    <value>Novo Indivíduo</value>
+  </data>
+  <data name="populacao" xml:space="preserve">
+    <value>População</value>
+  </data>
+  <data name="portugues" xml:space="preserve">
+    <value>Português</value>
+  </data>
+  <data name="qtnd_cidades" xml:space="preserve">
+    <value>Cidades:</value>
+  </data>
+  <data name="qtnd_ind_elitismo" xml:space="preserve">
+    <value>Elitismo de </value>
+  </data>
+  <data name="qtnd_ind_torneio" xml:space="preserve">
+    <value>Torneio com :</value>
+  </data>
+  <data name="sair" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="salvar" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="tamanho_pop" xml:space="preserve">
+    <value>Tamanho Pop:</value>
+  </data>
+  <data name="taxa_cruzamento" xml:space="preserve">
+    <value>Taxa de Crossover:</value>
+  </data>
+  <data name="taxa_mutacao" xml:space="preserve">
+    <value>Taxa de Mutação:</value>
+  </data>
+  <data name="tela_principal" xml:space="preserve">
+    <value>Tela Principal</value>
+  </data>
+  <data name="tipo_cruzamento" xml:space="preserve">
+    <value>Tipo Cruzamento:</value>
+  </data>
+  <data name="tipo_mutacao" xml:space="preserve">
+    <value>Tipo Mutação:</value>
+  </data>
+  <data name="tipo_selecao" xml:space="preserve">
+    <value>Tipo Seleção:</value>
+  </data>
+  <data name="torneio" xml:space="preserve">
+    <value>Torneio, </value>
+  </data>
+  <data name="torneio_dois_pontos" xml:space="preserve">
+    <value>Torneio:</value>
+  </data>
+</root>

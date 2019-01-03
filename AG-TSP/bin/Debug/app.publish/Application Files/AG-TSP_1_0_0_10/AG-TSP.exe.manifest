@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AG-TSP.exe" version="1.0.0.10" publicKeyToken="1084f644d013fd89" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="cloning.ICON.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AG-TSP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AG-TSP.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto UAC
+          Se desejar mudar o nível de Controle de Conta de Usuário do Windows, substitua o 
+          nó requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se deseja usar a Virtualização de Arquivos e Registro para compatibilidade 
+         com versões anteriores, exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AG-TSP.exe" size="464864">
+      <assemblyIdentity name="AG-TSP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3LMElAvKwTlTFFgmzI8FDn1HWMB5lEpXub454lwftWA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\AG-TSP.resources.dll" size="9216">
+      <assemblyIdentity name="AG-TSP.resources" version="1.0.0.0" language="en-US" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vCLVcwTv/HbT7Lgkcl6bvwYMcy+njn4cBOFxpdJkKT0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZedGraph.dll" size="307200">
+      <assemblyIdentity name="ZedGraph" version="5.1.5.28844" publicKeyToken="02A83CBD123FCD60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RjnOyzIQbo6k2kf8/LpiqSsrvLeMZCPFaomCrufslks=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZedGraph.Web.dll" size="102400">
+      <assemblyIdentity name="ZedGraph.Web" version="5.1.5.29221" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>iaNF9T00TISKXycAsoKTIdC7lrgtEKwWETgBuaDWz6w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AG-TSP.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FqWy0dfMmRS85zkU1NlW07p6LsNOPUHodvLiZcFdgJY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="cloning.ICON.ico" size="20712">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9LI5NBRmqsFKWWSqedWBupupow9BY5ntboVFahRqtCM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-H2L6CRP\Guilh" issuerKeyHash="bafef198f6cd9047217eaefdd5b82b4cfe7a77c6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>puUlaptp2BAaJ4NQCRQPp37gwNfqX8ysZKRCDPz+Q5I=</DigestValue></Reference></SignedInfo><SignatureValue>fCgmsZc2xmPX2e+Vg1JtJujoOkMQFHycXP2I4n/mccrUolp1YVKb27jXfOXYuupuj3oWbV1J70sZ+zqE4NoFpuHfsCrSwmqQKlP8kI9JoTEPOFAoUxFG6OA+zTyZTSU+OwIiXvbgqFtQtOzHNzxb4Lpo+xU2/HwiJGhy9PQByRQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>76Zgh9aWDRsnEnazx0lWQXvCkj3j/OyqNfO2MrzTB+hCDHBkUj26Mxg9iZITgyX154RuBVpMJGSneAdhT5ihVYDYrCWQrA4y7Ofcoq9SlQluDnY7IKx2AmMBKqsPC1b5Oke4R56F8ndUOgCzWTbluYg+kaeaYR0OojNCu3Popfk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9243fefc0c42a464accc5fead7c0e07ea70f14095083271a10d8699b6a25e5a6" Description="" Url=""><as:assemblyIdentity name="AG-TSP.exe" version="1.0.0.10" publicKeyToken="1084f644d013fd89" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-H2L6CRP\Guilh</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CRaEudsuEUlZ7wm0hYkFAreDvNkgBxHZi2vQl0M4t8E=</DigestValue></Reference></SignedInfo><SignatureValue>OFWLn5lvtUKmyrME9DKb8tM1hA6OOukUP2/GnCsexNe+mAWiqi5v9sME0gmik1MbV6iM5EKSfN817MIBHEmTyMpyJxC06DHF9umd9Vsut73R24aIcNSvkIc9uYfeYZYck4mn5Fsglxvmxr9R8JdYmaEvlBvqMfev1cFdZVFM+Rw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>76Zgh9aWDRsnEnazx0lWQXvCkj3j/OyqNfO2MrzTB+hCDHBkUj26Mxg9iZITgyX154RuBVpMJGSneAdhT5ihVYDYrCWQrA4y7Ofcoq9SlQluDnY7IKx2AmMBKqsPC1b5Oke4R56F8ndUOgCzWTbluYg+kaeaYR0OojNCu3Popfk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQFQHT70tlpL9ETvDkjRk19TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEgAMgBMADYAQwBSAFAAXABHAHUAaQBsAGgwHhcNMTgxMTE4MDQyMjU5WhcNMTkxMTE4MTAyMjU5WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEgAMgBMADYAQwBSAFAAXABHAHUAaQBsAGgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAO+mYIfWlg0bJxJ2s8dJVkF7wpI94/zsqjXztjK80wfoQgxwZFI9ujMYPYmSE4Ml9eeEbgVaTCRkp3gHYU+YoVWA2KwlkKwOMuzn3KKvUpUJbg52OyCsdgJjASqrDwtW+TpHuEeehfJ3VDoAs1k25bmIPpGnmmEdDqIzQrtz6KX5AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAIUqct972aR6dBm752R1k9inU5oEj6bpowYQ52VXQv8BLm28lzOG7HyFlJRcrmWSE7oFFNuGoFzH/SdVmB/5/n8O/iDbJCvLIY9Mtdvl6qj8iH16DwKwfdnCSM6VuHlQPUHsWQnrOESZEiO0akRQdGOWG1GN950cM+A3EMgneKkw=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

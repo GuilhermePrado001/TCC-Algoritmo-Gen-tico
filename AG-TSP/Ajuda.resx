@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Para mais informações entrar em contato com os desenvolvedores:
+ guilherme-prado-outlook.com.br
+ caiojunt@gmail.com
+ ibrunoguiraldelli@gmail.com
+
+---AG PRINCIPAL---
+
+1 - Inserir Pontos / Importar TSPLIB
+
+  Para a execução do AG é necessario inserir os pontos (cidades) na tela, isto pode ser feito clicando na tela ou fazendo download da TSPLIB (https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp/), pressionando o botão "Importar" este irá abrir uma nova janela onde você deve navegar entre as pastas e selecionar um dos arquivos extraidos da TSPLIB, lembrado que atualmente o sistema suporta apenas arquivos em EUC2D e .TSP. 
+
+2 - Criando População e Executando o AG
+
+  Sempre que um novo ponto for inserido na tela uma nova população deve ser criada, caso contrario o botão executar não ficara habilitado. 
+
+3 - Limpando a Tela
+
+  Ao pressionar o botão "Limpar" os pontos serão excluidos e os valores resetados.
+
+4 - Inserindo Cidades Automáticamente
+
+  O botão "Inserir Cidades" pode ser usado para colocar cidades automaticamente e aleatoriamente na tela .
+
+5 - Configurando o AG
+
+  No software é possivel definir as configurações conforme a sua necessidade, para isto bastar alterar os valores dos campos taxa de mutação, taxa de cruzamento, evoluções e população, abaixo explicaremos resumidamente o que é cada uma.
+
+-Taxa de Mutação
+  Assim como na natureza o software simula uma chance de mutação no genes do individuo, esta taxa influencia na porcentagem de chances de um determinado individuo sofrer a mutação.
+
+-Taxa de Cruzamento
+  Está controla as chances de um inviduo se cruzar e reproduzir-se.
+
+-Evolução 
+  Controla quantas evoluções ou gerações a sua população vai ter, também define o numero de execuções que o software realiza.
+
+- População
+  Este campo define o tamanho de sua população por exemplo, caso adicionado 10 cidades na tela com um população de 50 individuos, serão criados 50 vetores de 10 posições, cada um desses vetores é responsavel pela representação de um indivuo.
+
+6 - Alterando o Tipo de Mutação
+
+  Ao selecionar o tipo de mutação "Novo Individuo" apenas os novos individuos podem sofrer a mutação, ja na opção "População em Geral" todos os individuos podem sofrer as alterações genéticas.
+
+7 - Elitismo
+
+  O Elitismo é reponsavél por manter os melhores individuos das populações anteriores, aumentando a média da nova população.
+
+8 - 2-OPT 
+
+  O 2opt é um metodo complementar para o AG, este se encarrega de descruzar os pontos facilitando a busca pela melhor rota, lembrando apenas que este exige um alto custo computacional para ser executado.
+
+9 - Torneio
+
+  Através do torneio são selecionados os melhores individuos da população, os vencedores serão aptos a realizar a etapa de cruzamento, os demais serão excluidos da população.
+
+10 - Salvar
+
+  Esta opção permite que você salve os seus pontos em um arquivo .tsp, para que mais tarde possa importa-los e recomeçar a execução novamente.
+
+---GRÁFICO---
+
+1 - Visualizando a Média de Evolução
+
+  Através opção "GRAFICO" no menu é possivel visualizar como a população esta evoluindo.
+
+---INFORMAÇÕES---
+
+1 - Informações da População
+
+  No menu "INFORMAÇÕES" é possivel visualizar toda a configuração usada na execução do AG além da melhor rota encontrada que é exibida detalhadamente.
+
+---IDIOMA---
+
+1 - Alterando o Idioma
+
+  Nesta tela é possivel alterar o idioma do software entre Inglês e Português.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="BtnEN.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="BtnBR.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+</root>

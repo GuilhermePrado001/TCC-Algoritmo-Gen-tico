@@ -1,0 +1,379 @@
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.Cache
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\ZedGraph.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\ZedGraph.Web.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\ZedGraph.xml
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\ZedGraph.Web.xml
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP\AG-TSP\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Diogo Cavalcante\Documents\Visual Studio 2017\Projects\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ZedGraph.xml
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ZedGraph.Web.xml
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.Cache
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\GUI\Downloads\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.Cache
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ZedGraph.xml
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ZedGraph.Web.xml
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\GUI\Desktop\AG-TSP-Vers-o-Aluno\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Projetos\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Projetos\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\ZedGraph.xml
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\ZedGraph.Web.xml
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\de\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\es\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\fr\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\hu\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\it\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\ja\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\pt\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\ru\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\sk\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\sv\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\tr\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Projetos\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Projetos\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Projetos\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Projetos\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.Cache
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.Cache
+C:\Projetos\AG - TSP\aa\AG - TSP\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG - TSP-Thread-Funcional\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\TCC\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\AG - TSP-2OPT-FUNCIONAL\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG_-_TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\TCC\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\bfgz\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\AG_-_TSP-UI-RAFATORADAatt\AG - TSP-2OPT-FUNCIONAL_att\AG - TSP-2OPT-FUNCIONAL\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.jp-JP.resources
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\AG - TSP\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\NEW DO NEW\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Ruan\Downloads\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Ruan\Downloads\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\Ruan\Downloads\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\Ruan\Downloads\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Ruan\Downloads\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Ruan\Downloads\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Ruan\Downloads\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\caio\Desktop\Desktop\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\caio\Desktop\Desktop\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\caio\Desktop\Desktop\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\caio\Desktop\Desktop\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\Desktop\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\caio\Desktop\Desktop\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\Desktop\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG_TSP.Form1.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\NEW DO NEW\Desktop_att3011\Desktop_att3011\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\caio\Desktop\new do new do new\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\caio\Desktop\new do new do new\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\caio\Desktop\new do new do new\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\caio\Desktop\new do new do new\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\new do new do new\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\caio\Desktop\new do new do new\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\new do new do new\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\caio\Desktop\new do new do new do new do new\AG-TSP\obj\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\bin\Debug\AG-TSP.exe.config
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\bin\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\bin\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\bin\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\bin\Debug\AG-TSP.pdb
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\bin\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG_TSP.AG_Principal.resources
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG_TSP.Ajuda.resources
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG_TSP.Properties.Resources.resources
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.resources
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG_TSP.Resources.Resource.en-US.resources
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\en-US\AG-TSP.resources.dll
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.exe.manifest
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.application
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.csproj.CopyComplete
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.exe
+C:\Users\Guilh\Desktop\The Last Survivor\AG-TSP\obj\Debug\AG-TSP.pdb
